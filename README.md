@@ -2,13 +2,7 @@
 
 # webpack-starter-template
 
-Starter webpack template, easy to use.
-
-## How to use
-
-```
-git clone https://github.com/erq-programmer/webpack-starter-template.git [project-name]
-```
+Starter webpack template, easy to use
 
 ## Installation
 
