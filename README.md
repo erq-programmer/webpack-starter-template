@@ -2,7 +2,7 @@
 
 # webpack-starter-template
 
-Starter webpack template, simple to use.
+Starter webpack template, easy to use
 
 ## Installation
 
@@ -13,7 +13,7 @@ npm install
 ## How to start developer version
 
 ```
-npm dev
+npm run dev
 ```
 
 ## How to start production version
@@ -38,4 +38,8 @@ npm run deploy
 - The css and js file gets included in the index.html automatically
 - Filename with contentHash
 - Cleaning disc/ folder before production build
-- Deploying to Github Pages
+  <<<<<<< HEAD
+- # Deploying to Github Pages
+- Image loader
+- CSS autoprefixer
+  > > > > > > > 84b4696183cd92474a1445cb5a9a8c2ec5472f6c
