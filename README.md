@@ -36,10 +36,17 @@ npm run deploy
 - Development server
 - Production optimizations: minified css, js, html
 - The css and js file gets included in the index.html automatically
-- Filename with contentHash
+- Filename with content hash
 - Cleaning disc/ folder before production build
-  <<<<<<< HEAD
-- # Deploying to Github Pages
+- Deploying to Github Pages
 - Image loader
 - CSS autoprefixer
-  > > > > > > > 84b4696183cd92474a1445cb5a9a8c2ec5472f6c
+- Reset default styles
+
+## Status
+
+_finished_
+
+## Contact
+
+Created by <eryk.slocinski@gmail.com> - feel free to contact me!

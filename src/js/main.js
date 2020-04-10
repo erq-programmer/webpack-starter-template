@@ -1,1 +1,1 @@
-console.log(`It's work`);
+// Main js file
